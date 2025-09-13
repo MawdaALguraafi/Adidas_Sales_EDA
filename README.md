@@ -47,7 +47,7 @@ streamlit run dashboard.py
 
 ## Dataset
 
-* Original dataset: `data_sales.csv`
+* Original dataset: `data_sales.csv` (sourced from Kaggle)  
 * Cleaned dataset used in the dashboard: `cleaned_data_sales.csv`
 
 ## Screenshots
@@ -57,6 +57,7 @@ streamlit run dashboard.py
 ![Dashboard Screenshot](Dashbored-2.png)
 
 ![Dashboard Screenshot](Dashbored-3.png)
+
 
 
 
