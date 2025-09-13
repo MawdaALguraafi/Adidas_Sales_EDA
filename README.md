@@ -52,5 +52,8 @@ streamlit run dashboard.py
 
 ## Screenshots
 
-*Add your dashboard screenshots here*
+![Dashboard Screenshot](Dashbored-1.png)
+
+![Dashboard Screenshot](Dashbored-2.png)
+
 
