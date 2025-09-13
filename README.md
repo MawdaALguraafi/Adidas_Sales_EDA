@@ -12,7 +12,7 @@ This repository contains a complete **Exploratory Data Analysis (EDA)**, **data 
 
 * **Exploratory Data Analysis (EDA)**
 
-  * Summary statistics with `.describe()` and `.info()`
+  * Summary statistics with `.describe()` 
   * Random samples and quick insights
   * Visualizations of sales trends, regional performance, and product performance
 
@@ -53,3 +53,4 @@ streamlit run dashboard.py
 ## Screenshots
 
 *Add your dashboard screenshots here*
+
